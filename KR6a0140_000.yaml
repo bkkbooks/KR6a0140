@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0140/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 舍利弗摩訶目連遊四衢經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0137.xml
+    old_id: T02n0137
+hash: sha256:79264794c5b102362e7076e51d97997355baa02aca60a36b4b9723684dbe2fcf
