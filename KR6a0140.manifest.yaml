@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0140_000.yaml, hash: 'sha256:79264794c5b102362e7076e51d97997355baa02aca60a36b4b9723684dbe2fcf'}
-  - {seq: 1, filename: KR6a0140_001.yaml, hash: 'sha256:a4e5189346b4077749a44b30cf7ecb3dd4a0ce08d4ea1616c9f77e2fb38aefbd'}
+  - {seq: 1, filename: KR6a0140_001.yaml, hash: 'sha256:f1069cd607d53ffba98fe7c4c6c0e4f5fbe388c9a4c1c986b9bcb775156d5b34'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0140_001.markers.yaml, hash: 'sha256:e82b422fad925b7e62898dad8c4d3618633707df0def7d52e4dfb9e18813fb88'}
+  - {seq: 0, role: markers, filename: assets/KR6a0140_000.markers.yaml, hash: 'sha256:3eeda33918db9fad9fac6f0ff0a44ac65ff5fb4cdd45680298e6a09b0fea969e'}
+  - {seq: 1, role: markers, filename: assets/KR6a0140_001.markers.yaml, hash: 'sha256:e4b6c17bf4242880e249fcc0ae60ab289dc840e1e783ed5028b253a486001bb8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 舍利弗摩訶目連遊四衢經
   type: juan
   level: 1
-hash: sha256:7e94ab348789fc1a84c06b74a0bcbb3bce74411df3c21c7ea2520d6a4d30521f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3576bdb399d52ea9aa62e592393f2883a21fcfb2e97020768ca01448b50453a5
