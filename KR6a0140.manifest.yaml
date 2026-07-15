@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0140/v1
 canonical_location: https://kanripo.org/bkk/KR6a0140/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 舍利弗摩訶目連遊四衢經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0140_000.yaml, hash: 'sha256:79264794c5b102362e7076e51d97997355baa02aca60a36b4b9723684dbe2fcf'}
-  - {seq: 1, filename: KR6a0140_001.yaml, hash: 'sha256:f1069cd607d53ffba98fe7c4c6c0e4f5fbe388c9a4c1c986b9bcb775156d5b34'}
+  - {seq: 1, filename: KR6a0140_001.yaml, hash: 'sha256:84ac2e7bd54e689b6687c3df0513389e9d03902aa278567a1fe938b2fd9682a2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0140_000.markers.yaml, hash: 'sha256:3eeda33918db9fad9fac6f0ff0a44ac65ff5fb4cdd45680298e6a09b0fea969e'}
-  - {seq: 1, role: markers, filename: assets/KR6a0140_001.markers.yaml, hash: 'sha256:e4b6c17bf4242880e249fcc0ae60ab289dc840e1e783ed5028b253a486001bb8'}
+  - {seq: 1, role: markers, filename: assets/KR6a0140_001.markers.yaml, hash: 'sha256:b19c32891d2459c22d915d5184167ae940597e412c1fb74ae5561a9b08194aaa'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 舍利弗摩訶目連遊四衢經
   type: juan
   level: 1
-hash: sha256:3576bdb399d52ea9aa62e592393f2883a21fcfb2e97020768ca01448b50453a5
+hash: sha256:eef643e6e4a4410f2b22b8fdb1bf10c61319bede22c08e06a2925a7a05a81e70
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
