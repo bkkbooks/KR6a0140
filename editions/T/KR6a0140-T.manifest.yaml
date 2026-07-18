@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0140_000-T.yaml, hash: 'sha256:79264794c5b102362e7076e51d97997355baa02aca60a36b4b9723684dbe2fcf'}
   - {seq: 1, filename: KR6a0140_001-T.yaml, hash: 'sha256:f1069cd607d53ffba98fe7c4c6c0e4f5fbe388c9a4c1c986b9bcb775156d5b34'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0140_000-T.markers.yaml, hash: 'sha256:2f96cb368b305651dec7c4084e16f97a7f2ad978350b52a320f74b6805a23736'}
+  - {seq: 0, role: markers, filename: assets/KR6a0140_000-T.markers.yaml, hash: 'sha256:6d3625a2f93913f4cc8d3a6c36979d862fd69340a4445dea6416f686b7e1dc18'}
   - {seq: 1, role: markers, filename: assets/KR6a0140_001-T.markers.yaml, hash: 'sha256:35a25b4c6c2ed2e5452bbecee7029e8cefec14e2eb0ae79622267bc5ccc808eb'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 舍利弗摩訶目連遊四衢經
   type: juan
   level: 1
-hash: sha256:d14177c632931e8a858924fabf92814a3498db25edbe7b3b5ec19bbd9b828e4d
+hash: sha256:9d5133f6521f8027dc151ab19aa2398c22099aa0bb637b803fa75d065cf88dc3
